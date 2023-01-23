@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate Cyber Security professional and Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://discovertemplate.com/wp-content/uploads/2020/08/DT_G25_Cyber-Security-Animated-GIF-Icon-pack.gif">
-<img src="https://tryhackme-badges.s3.amazonaws.com/llavorini.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/271544"></script>
 
 
 - 👋 I am new here 
