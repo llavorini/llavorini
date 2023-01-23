@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate Cyber Security professional and Enthusiast</h3>
-<img align="right" alt="Coding" width="900" src="https://i.pinimg.com/originals/8b/fd/01/8bfd01c18be1b5059bc0d7770d9dabf1.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f6/f60c814908c71f6cc1b8888ad9e3c3b1.gif">
 
 
 - 👋 I am new here 
