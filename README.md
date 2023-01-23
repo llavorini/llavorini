@@ -3,6 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fa/59/6c/fa596cea24a101c9efbe209235c8b832.gif">
 
 
+- 👋 I am new here 
+
+- 🌱 I’m currently learning **MS 365 Defender, AppSec, Python and Go**
 
 - 💬 Ask me about **Security Operations, MDI , MDA , O365**
 
