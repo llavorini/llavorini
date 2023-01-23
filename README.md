@@ -5,7 +5,7 @@
 
 - 👋 I am new here 
 
-- 🌱 I’m currently learning **MS 365 Defender, AppSec, Python and Go**
+- 🌱 I’m currently learning **MS 365 Defender, AppSec, Python/Go**
 
 - 💬 Ask me about **Security Operations, MDI , MDA , O365**
 
