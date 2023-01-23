@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate Cyber Security professional and Enthusiast</h3>
+<h3 align="center">I am Tech lover and enthusiast!</h3>
 <img align="right" alt="Coding" width="400" src="https://discovertemplate.com/wp-content/uploads/2020/08/DT_G25_Cyber-Security-Animated-GIF-Icon-pack.gif">
 
 
