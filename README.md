@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lavorinilive@gmail.com**
 
-<script src="https://tryhackme.com/badge/271544"></script>
+<script src="https://tryhackme.com/badge/271544"</script>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
