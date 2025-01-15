@@ -7,7 +7,7 @@
 
 - 👋 I’m currently a Security Engineer working with Microsoft Cloud Suite.
 
-- 🌱 I'm learning **AppSec, Powershell, Purple Team**.
+- 🌱 I'm learning **Automation, Purple Team, Microsoft**.
 
 - 💬 Ask me about **Security overall, Microsoft 365, XDR**.
 
