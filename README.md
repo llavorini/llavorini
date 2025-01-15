@@ -3,12 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://discovertemplate.com/wp-content/uploads/2020/08/DT_G25_Cyber-Security-Animated-GIF-Icon-pack.gif">
 
 
+- 👋 I’m currently a Security Engineer working with Microsoft Cloud Suite.
 
-- 👋 I am new here 
+- 🌱 I'm learning **AppSec, Powershell, Purple Team**.
 
-- 🌱 I’m currently learning **MS 365 Defender, AppSec, Python/Go**
-
-- 💬 Ask me about **Security Operations, MDI , MDA , O365**
+- 💬 Ask me about **Security overall, Microsoft 365, XDR**.
 
 - 📫 How to reach me **lavorinilive@gmail.com**
 
